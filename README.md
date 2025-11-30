@@ -10,4 +10,4 @@ The program computes the weights for regression using the normal equation, and t
 Testing: (Test on a Linux Machine or Remotely Access a Linux Machine to run this project)
 1. Compile: gcc -o estimate main.c
 2. Run with provided training data and test files(under "data"): ./estimate train.xx.txt, ./estimate data.xx.txt
-3. View output: predicted prices for each category based on learned weights. 
+3. View output: predicted prices for each category based on learned weights.weights for regression using the normal equation, and then uses the calculated weights to predict outcomes for new data points. 
